@@ -1,1 +1,1 @@
-# tee
+# Technology Entrepreneurship Education
