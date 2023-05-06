@@ -26,8 +26,8 @@ response = requests.get(BASE_URL, params=params)
 if response.status_code == 200:
     # Extract data from API response
     data = response.json()['search-results']['entry']
-    for i in data:
-        print(i,"\n\n")
+    # for i in data:
+    #     print(i,"\n\n")
 
     for i in range(len(data)):
         data[i].pop('@_fa')

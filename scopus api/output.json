@@ -1,8 +1,141 @@
 [
     {
-        "Scopus ID":"85152941630",
-        "Title":"Biosynthesis and Optimization of AgNPs Yield from Chromolaena Odorata Leaf Extract Using Response Surface Methodology (RSM)",
+        "Scopus ID":"85150275188",
+        "Title":"Prenatal amoxicillin exposure induces developmental toxicity in fetal mice and its characteristics",
         "Cover Date":"2024-03-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85150078386",
+        "Title":"Thermogravimetric, kinetic study and gas emissions analysis of the thermal decomposition of waste-derived fuels",
+        "Cover Date":"2024-03-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85150033194",
+        "Title":"Chronic administration of triclosan leads to liver fibrosis through hepcidin-ferroportin axis-mediated iron overload",
+        "Cover Date":"2024-03-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85153575308",
+        "Title":"Effects of the inlet particle spatial distribution on the performance of a gas-solid cyclone separator",
+        "Cover Date":"2024-02-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85153326588",
+        "Title":"Investigating the inflow into a granular bed using a locally resolved method",
+        "Cover Date":"2024-02-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85152630700",
+        "Title":"Multi-point temperature measurements in packed beds using phosphor thermometry and ray tracing simulations",
+        "Cover Date":"2024-02-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85152591052",
+        "Title":"Effect of operational and geometric parameters on the hydrodynamics of a Wurster coater: A CFD-DEM study",
+        "Cover Date":"2024-02-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85153672791",
+        "Title":"Numerical investigation of the transport and accumulation of conservative pollutants off Changjiang Estuary",
+        "Cover Date":"2024-01-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85152234090",
+        "Title":"CFD-DEM simulation of fluorination reaction in fluidized beds with local grid and time refinement method",
+        "Cover Date":"2024-01-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85152233024",
+        "Title":"Convective drying of wood chips: Accelerating coupled DEM-CFD simulations with parametrized reduced single particle models",
+        "Cover Date":"2024-01-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85152121849",
+        "Title":"A numerical and experimental comparison of heat transfer in a quasi two-dimensional packed bed",
+        "Cover Date":"2024-01-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85151572368",
+        "Title":"Numerical simulation of square shaped particle sedimentation",
+        "Cover Date":"2024-01-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85151431885",
+        "Title":"Bed inventory balance and stability of dual circulating fluidized bed systems",
+        "Cover Date":"2024-01-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85150784282",
+        "Title":"Hydroxyl radical production by abiotic oxidation of pyrite under estuarine conditions: The effects of aging, seawater anions and illumination",
+        "Cover Date":"2024-01-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85148250536",
+        "Title":"The parameters of flow-forming elements for controlling the behavior of fish in artificial channels",
+        "Cover Date":"2024-01-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85147800053",
+        "Title":"Enhancement of heavy metals desorption from the soil by eddy deep leaching in hydrocyclone",
+        "Cover Date":"2024-01-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85147796186",
+        "Title":"Environmentally persistent free radicals in PM<inf>2.5<\/inf> from a typical Chinese industrial city during COVID-19 lockdown: The unexpected contamination level variation",
+        "Cover Date":"2024-01-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85147606136",
+        "Title":"Critical layer in liquid-solid system influencing the remediation of chromium using zeolite-supported sulfide nano zero-valent iron",
+        "Cover Date":"2024-01-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85147549544",
+        "Title":"Factors hindering the degradation of pharmaceuticals from human urine in an iron-activated persulfate system",
+        "Cover Date":"2024-01-01",
+        "Aggregation Type":"Journal",
+        "Subtype":"Article"
+    },
+    {
+        "Scopus ID":"85147186753",
+        "Title":"Prevalence of Gram positive bacteria in the affected individuals of Otitis media with effusion from the indigenous population of Southern Punjab, Pakistan: first report",
+        "Cover Date":"2024-01-01",
         "Aggregation Type":"Journal",
         "Subtype":"Article"
     }
