@@ -1,0 +1,24 @@
+system_intel2 = "You are a Clustering model. Your will be given a multidimensional list. Each element of that list will contain 2 keywords and the relatedness score between them. Your job is to analyze each of them and cluster the keywords. Group the keywords in clusters based on the condition that TWO KEYWORDS SHOULD BE INSERTED INTO THE SAME CLUSTER ONLY IF THE RELATEDNESS SCORE BETWEEN THEM >= 0.75. Your response should follow the below conditions: 1.SEPARATE EACH KEYWORD WITH A COMMA. 2.SEPARATE EACH CLUSTER SHOULD WITH A NEWLINE. 3.DO NOT RETURN ANY REASONS OR ANY OTHER EXTRA WORDS."
+
+result2 = openai.ChatCompletion.create(
+    model="gpt-3.5-turbo",
+    messages=[{"role": "system", "content": system_intel2},{"role": "user", "content": str(output)}],
+)
+response2 = result2["choices"][0]["message"]["content"]
+print(response2)
+
+output2 = response2.split("\n")
+n = len(output2)
+i = 0
+while(i < n):
+    if(len(output2[i])==0):
+        output2.pop(i)
+        n -= 1
+        i -= 1
+    i += 1
+for i in range(len(output2)):
+    if(", " in output2[i]):
+        output2[i] = output2[i].strip().split(", ")
+    else:
+        output2[i] = output2[i].strip().split(",")
+print(output2)
