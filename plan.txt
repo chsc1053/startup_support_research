@@ -1,0 +1,18 @@
+The work was divided into the following modules:
+TEAM-1
+1. Document extraction from Scopus using Scopus API.
+	Input: Keyword
+	Output: CSV containing documents related to Input.
+2. Identification of Keywords from the Scopus extracts.
+	Input: Output of 1
+	Output: Keywords
+3. Clustering the identified keywords.
+	Input: Output of 2
+	Output: Clusters
+TEAM-2
+4. Extraction of documents related to clusters from Scopus using Scopus API.
+	Input: Output of 3
+	Output: CSV containing documents related to Input.
+5. Summarization of extracted documents.
+	Input: Output of 4
+	Output: Summarized text
