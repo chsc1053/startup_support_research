@@ -27,11 +27,6 @@ output = response.json()['data']['translations'][0]['translatedText']
 print(source,":",query)
 print(target,":",output)
 
-# Create a file object
 file = open("./output.txt", "w", encoding="utf-8")
-
-# Write text to the file
 file.write(response.json()['data']['translations'][0]['translatedText'])
-
-# Close the file
 file.close()
