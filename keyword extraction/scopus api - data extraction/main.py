@@ -1,4 +1,4 @@
-import requests, json
+import requests
 import pandas as pd
 
 # Scopus API key
