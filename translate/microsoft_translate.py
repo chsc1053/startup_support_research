@@ -5,7 +5,7 @@ source_language = 'en'
 target_languages = ['te','hi','ta']
 target_languages_full = ['Telugu','Hindi','Tamil']
 
-key = "6d5784ec03fb4d03a33c2fd56991b5c0"
+key = ""
 endpoint = "https://api.cognitive.microsofttranslator.com"
 location = "centralindia"
 path = '/translate'
