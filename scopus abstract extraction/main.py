@@ -2,8 +2,8 @@ import requests
 import pandas as pd
 
 # Scopus API key
-API_KEY = '046ebcb86c11856c2c9d978b0570109f'
-# API_KEY = '7523d7b1a47c95487a4cdd29b27624ef'
+API_KEY = ''
+# API_KEY = ''
 
 # API endpoint
 BASE_URL = 'https://api.elsevier.com/content/search/scopus'
